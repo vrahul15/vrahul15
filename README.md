@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ,I'm V Rahul<br> <br>Currently pursuing Pre Final Year at  NIT Rourkela .<br><br>I have experience in full-stack development using React, Node.js
+Hi ,I'm V Rahul<br> <br>Currently pursuing  Final Year at  NIT Rourkela .<br><br>I have experience in full-stack development using React, Node.js
 
 
 ## 🌐 Socials:
